@@ -4,7 +4,6 @@ A SQL and Power BI project that explores how technical skills influence compensa
 
 ![Dashboard Preview](Project/Assets/Dashboard%20preview.png)
 
-📄 [View Full Analysis Report](Project/Assets/Skill_Economics_Report.pdf)
 
 ---
 
