@@ -2,9 +2,9 @@
 
 A SQL and Power BI project that explores how technical skills influence compensation in Data Analyst and Data Scientist roles. Instead of looking at the job market as a single pool, this analysis breaks it into three salary tiers to understand which skills drive entry, growth, and premium earnings at each level.
 
-![Dashboard Preview](Assets/Dashboard%20preview.png)
+![Dashboard Preview](Project/Assets/Dashboard%20preview.png)
 
-📄 [View Full Analysis Report](Assets/Skill_Economics_Report.pdf)
+📄 [View Full Analysis Report](Project/Assets/Skill_Economics_Report.pdf)
 
 ---
 
@@ -31,7 +31,7 @@ All ranking and segmentation logic lives in a single master query using `ROW_NUM
 
 ## Database Schema
 
-![ERD](Assets/ERD.png)
+![ERD](Project/Assets/ERD.png)
 
 | Table | Description |
 |---|---|
