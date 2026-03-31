@@ -1,4 +1,4 @@
-# SQL Data Job Analytics
+# Skill Economics Across Compensation Tiers
 
 This project analyzes how technical skills relate to compensation across Data Analyst and Data Scientist roles, using SQL for all data work and Power BI for visualization. The core idea was to stop treating the job market as a flat list and instead segment it into salary tiers to see how skill value actually changes depending on where in the market you're looking.
 
